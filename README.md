@@ -1,5 +1,50 @@
-# 💫 About Me:
-Hi, I’m <strong> Vivek Kumar, </strong> a passionate developer with a focus on backend technologies and AI. Here’s a bit more about me:<br><br>🔧 Currently working on:<br>I’m building AI-powered applications and working on personal projects like HackHuntIO, a daily developer newsletter that has scaled to 600+ subscribers in just a month.<br><br>🤝 Looking to collaborate on:<br>Exciting hackathon projects, real-world tech solutions, and collaborating with like-minded individuals to create impactful software.<br><br>💡 Looking for help with:<br>Scaling my projects further, particularly in AI/ML applications, and seeking advice on improving backend architecture and cloud deployments.<br><br>🌱 Currently learning:<br>I’m diving deep into advanced system design concepts and refining my skills in full-stack development with a special focus on microservices, Spring Boot, and cloud computing.<br><br>☁️ Ask me about:<br>My experience in building AI-driven applications, hackathon participation, and navigating the world of software development and tech entrepreneurship.<br><br>⚡ Fun fact:<br>I’ve participated in 50+ national & international hackathons and even won the “Innovation Motion” award at HawkHacks 2025.
+<div style="font-family: 'Arial', sans-serif; background-color: #1e1e1e; color: #fff; border-radius: 10px; padding: 20px; max-width: 700px; margin: 20px auto;">
+    <h1 style="text-align: center; color: #F5A623;">💫 About Me</h1>
+    <p style="font-size: 18px; line-height: 1.6;">Hi, I’m <span style="color: #4A90E2; font-weight: bold;">Vivek Kumar</span>, a passionate developer with a focus on backend technologies and AI. Here’s a bit more about me:</p>
+
+    <div style="margin-top: 20px;">
+        <h3 style="color: #F5A623;">🔧 Currently working on:</h3>
+        <p style="font-size: 16px; line-height: 1.6;">I’m building <span style="color: #4A90E2; font-weight: bold;">AI-powered applications</span> and working on personal projects like <span style="color: #4A90E2; font-weight: bold;">HackHuntIO</span>, a daily developer newsletter that has scaled to <span style="color: #E94E77;">600+</span> subscribers in just a month.</p>
+    </div>
+
+    <div style="margin-top: 20px;">
+        <h3 style="color: #F5A623;">🤝 Looking to collaborate on:</h3>
+        <p style="font-size: 16px; line-height: 1.6;">Exciting hackathon projects, real-world tech solutions, and collaborating with like-minded individuals to create impactful software.</p>
+    </div>
+
+    <div style="margin-top: 20px;">
+        <h3 style="color: #F5A623;">💡 Looking for help with:</h3>
+        <p style="font-size: 16px; line-height: 1.6;">Scaling my projects further, particularly in <span style="color: #E94E77;">AI/ML applications</span>, and seeking advice on improving backend architecture and cloud deployments.</p>
+    </div>
+
+    <div style="margin-top: 20px;">
+        <h3 style="color: #F5A623;">🌱 Currently learning:</h3>
+        <p style="font-size: 16px; line-height: 1.6;">I’m diving deep into advanced <span style="color: #4A90E2;">system design concepts</span> and refining my skills in full-stack development with a special focus on <span style="color: #4A90E2;">microservices</span>, <span style="color: #4A90E2;">Spring Boot</span>, and <span style="color: #4A90E2;">cloud computing</span>.</p>
+    </div>
+
+    <div style="margin-top: 20px;">
+        <h3 style="color: #F5A623;">☁️ Ask me about:</h3>
+        <p style="font-size: 16px; line-height: 1.6;">My experience in building <span style="color: #4A90E2;">AI-driven applications</span>, hackathon participation, and navigating the world of software development and tech entrepreneurship.</p>
+    </div>
+
+    <div style="margin-top: 20px;">
+        <h3 style="color: #F5A623;">⚡ Fun fact:</h3>
+        <p style="font-size: 16px; line-height: 1.6;">I’ve participated in <span style="color: #E94E77;">50+</span> national & international hackathons and even won the <span style="color: #4A90E2;">“Innovation Motion”</span> award at HawkHacks 2025.</p>
+    </div>
+</div>
+
+<!-- Style for adding hover effect to links and emphasis -->
+<style>
+    span {
+        font-weight: bold;
+        transition: color 0.3s ease;
+    }
+
+    span:hover {
+        color: #F5A623;
+    }
+</style>
+
 
 
 ## 🌐 Socials:
